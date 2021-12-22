@@ -1,5 +1,0 @@
-def string_lenght(string):
-    return (len(string))  # Функция len выдаёт размер строки
-
-
-if __name__ == '__main__':
